@@ -1,2 +1,3 @@
 # M-bot mini (Under Development)
-![X-carraige 8mm balls v28](https://user-images.githubusercontent.com/92049824/136258585-708672b5-7af6-466c-9b95-f09087cc6f9d.png)
+![X-carraige_8mm_balls_2021-Oct-06_05-46-24PM-000_CustomizedView52216664604_png_alpha](https://user-images.githubusercontent.com/92049824/136258869-22cb2eaf-cc29-467d-a50f-8e5402f1c254.png)
+
